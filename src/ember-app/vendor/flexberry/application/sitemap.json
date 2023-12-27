@@ -1,0 +1,87 @@
+﻿{
+  "applicationCaption": "Proba21",
+  "applicationTitle": "Proba21",
+  "items": [
+    {
+      "link": null,
+      "menuName": "информация-об-организации",
+      "caption": "Информация об организации",
+      "title": "Информация об организации",
+      "children": [
+        {
+          "link": "i-i-s-proba21-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba21-вакант-должн-l",
+          "menuName": null,
+          "caption": "Вакант должн",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "документы",
+      "caption": "Документы",
+      "title": "Документы",
+      "children": [
+        {
+          "link": "i-i-s-proba21-граф-собес-l",
+          "menuName": null,
+          "caption": "Граф собес",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba21-регист-анкеты-l",
+          "menuName": null,
+          "caption": "Регист анкеты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba21-планир-собес-l",
+          "menuName": null,
+          "caption": "Планир собес",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba21-рег-результ-l",
+          "menuName": null,
+          "caption": "Рег результ",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "информация-о-сотрудниках",
+      "caption": "Информация о сотрудниках",
+      "title": "Информация о сотрудниках",
+      "children": [
+        {
+          "link": "i-i-s-proba21-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba21-должн-сотр-l",
+          "menuName": null,
+          "caption": "Должн сотр",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

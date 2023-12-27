@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Граф собес",
+  "name": "IISProba21ГрафСобесE",
+  "className": "ГрафСобесE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba21-граф-собес",
+      "modelProjection": "ГрафСобесE"
+    }
+  ]
+}
